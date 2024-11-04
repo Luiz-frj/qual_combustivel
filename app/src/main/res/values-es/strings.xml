@@ -6,4 +6,5 @@
     <string name="message_gas">Valor de un Litro de Gasolina:</string>
     <string name="message_ethanol">Valor de un Litro de Etanol:</string>
     <string name="button_text">¿Cuál es la mejor opción?</string>
+
 </resources>

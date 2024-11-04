@@ -3,7 +3,7 @@
     <string name="app_name">What fuel</string>
     <string name="answer_ethanol">Fill up with Ethanol.</string>
     <string name="answer_gas">Fill up with Gasoline.</string>
-    <string name="message_gas">Value of a Liter of Gasoline:</string>
     <string name="message_ethanol">Value of a Liter of Ethanol:</string>
     <string name="button_text">What is the best option?</string>
+    <string name="message_gas">Value of a Liter of Gasoline:</string>
 </resources>
